@@ -1,0 +1,2 @@
+Sender Number:	 Ammount:
+32145678	   100

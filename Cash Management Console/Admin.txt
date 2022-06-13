@@ -1,0 +1,4 @@
+Name:	 Passwords:	 Balance:
+Azam	   111	   	785
+Zisha	   222	   	1500
+Arif	   555	   	600
